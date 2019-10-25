@@ -7,4 +7,4 @@ subtraction, multiplication, divide etc.
  -No edittexts
 
 
-Screenshot is the .jpg file named Image 1
+Screenshot is the .jpg file named Image 10-24-19
